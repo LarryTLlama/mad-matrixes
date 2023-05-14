@@ -1,14 +1,14 @@
-# Matrixes
-A dead simple library built for quick editing of matrixes (or matrices).
+# Mad Matrixes
+A dead simple javascript library built for quick editing of matrixes (or matrices).
 Made for those who can't be bothered to type out the whole thing. 
 
 # Installation
 
-Get it from npm ➡️ `npm install --save matrixes`.
+Get it from npm ➡️ `npm install --save mad-matrixes`.
 
 # Examples
 ```javascript
-const {Matrix, parseMatrix} = require("matrixes");
+const {Matrix, parseMatrix} = require("mad-matrixes");
 ```
 Create a new Matrix of size 3x3 where each point has a value of "something":
 ```javascript
@@ -49,7 +49,7 @@ let myOtherMatrix = [
 Got one of your own that you want to use? Don't like the normal constructor? Want to just be *different*? Use the parser!
 
 ```javascript
-const {parseMatrix} = require("matrixes");
+const {parseMatrix} = require("mad-matrixes");
 
 let mySpecialMatrix = [
     [["something"],["something"],["something"]],

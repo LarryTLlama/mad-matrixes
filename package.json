@@ -1,5 +1,5 @@
 {
-  "name": "matrixes",
+  "name": "mad-matrixes",
   "version": "1.0.0",
   "description": "Simple library for creating matrixes (or matrices)",
   "main": "index.js",
