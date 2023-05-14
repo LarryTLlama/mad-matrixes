@@ -1,0 +1,11 @@
+{
+  "name": "matrixes",
+  "version": "1.0.0",
+  "description": "Simple library for creating matrixes (or matrices)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "LarryTLlama",
+  "license": "ISC"
+}
